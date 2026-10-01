@@ -1,0 +1,1001 @@
+Intern_ID,Course_ID,Course_Name,Category,Difficulty,Duration_Hours,Predicted_Score
+INT001,C030,Technical Interview Preparation,Career,Intermediate,15,2.4037583310471664
+INT001,C020,Flask for Beginners,Web Development,Intermediate,20,1.988213367736976
+INT001,C028,Agile and Scrum,Professional Skills,Beginner,10,1.2814585852361984
+INT001,C016,Prompt Engineering,Generative AI,Intermediate,12,1.275661330150087
+INT001,C019,APIs with Python,Programming,Intermediate,18,1.1988967021175747
+INT002,C003,SQL Fundamentals,Data,Beginner,18,2.059665135536517
+INT002,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.3245411755648926
+INT002,C021,FastAPI Development,Web Development,Advanced,22,1.29100114056857
+INT002,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.1282810416746105
+INT002,C024,Docker Fundamentals,DevOps,Intermediate,18,0.966705439865839
+INT003,C023,AWS Fundamentals,Cloud,Intermediate,25,2.309866454755789
+INT003,C008,Supervised Learning,AI/ML,Intermediate,28,1.8767812000856319
+INT003,C017,Generative AI Applications,Generative AI,Advanced,24,1.8633786237287508
+INT003,C019,APIs with Python,Programming,Intermediate,18,1.7025392602677816
+INT003,C018,Git and GitHub,Software Tools,Beginner,10,1.1771408044983434
+INT004,C018,Git and GitHub,Software Tools,Beginner,10,2.5032182508914187
+INT004,C027,Software Testing,Software Engineering,Intermediate,20,2.3052720150241
+INT004,C017,Generative AI Applications,Generative AI,Advanced,24,1.9893263066545093
+INT004,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.981917753608719
+INT004,C030,Technical Interview Preparation,Career,Intermediate,15,1.2978978995414021
+INT005,C010,Feature Engineering,AI/ML,Advanced,20,2.306531950779607
+INT005,C015,LLM Fundamentals,Generative AI,Advanced,25,2.160883579172551
+INT005,C002,Advanced Python,Programming,Intermediate,30,1.932729250420979
+INT005,C014,Natural Language Processing,AI/ML,Advanced,30,1.8798934791706319
+INT005,C003,SQL Fundamentals,Data,Beginner,18,1.8034986198800806
+INT006,C026,Data Structures and Algorithms,Programming,Intermediate,35,2.561192855220766
+INT006,C028,Agile and Scrum,Professional Skills,Beginner,10,1.487463511157419
+INT006,C009,Unsupervised Learning,AI/ML,Advanced,28,1.2597814175049316
+INT006,C025,MLOps Fundamentals,MLOps,Advanced,30,1.1849419265679142
+INT006,C006,Data Visualization,Data Science,Beginner,16,1.1057091327907786
+INT007,C007,Machine Learning Basics,AI/ML,Intermediate,30,3.752865540384496
+INT007,C027,Software Testing,Software Engineering,Intermediate,20,2.1066147475612587
+INT007,C021,FastAPI Development,Web Development,Advanced,22,1.9129465223895608
+INT007,C023,AWS Fundamentals,Cloud,Intermediate,25,1.7700353027170306
+INT007,C028,Agile and Scrum,Professional Skills,Beginner,10,1.1300419676659323
+INT008,C029,Communication Skills,Professional Skills,Beginner,8,2.4101710407725268
+INT008,C004,Data Analysis with Pandas,Data Science,Intermediate,25,2.087124839245442
+INT008,C008,Supervised Learning,AI/ML,Intermediate,28,1.8016264024263262
+INT008,C016,Prompt Engineering,Generative AI,Intermediate,12,1.2191271993092947
+INT008,C025,MLOps Fundamentals,MLOps,Advanced,30,1.1065494720293185
+INT009,C008,Supervised Learning,AI/ML,Intermediate,28,2.5262761508662277
+INT009,C028,Agile and Scrum,Professional Skills,Beginner,10,1.666498735655588
+INT009,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.5013766866338736
+INT009,C023,AWS Fundamentals,Cloud,Intermediate,25,1.1692532773330533
+INT009,C030,Technical Interview Preparation,Career,Intermediate,15,1.0734768235727123
+INT010,C029,Communication Skills,Professional Skills,Beginner,8,2.686821626550121
+INT010,C015,LLM Fundamentals,Generative AI,Advanced,25,1.6037872347399353
+INT010,C027,Software Testing,Software Engineering,Intermediate,20,1.3787898853472043
+INT010,C003,SQL Fundamentals,Data,Beginner,18,1.1705625118273373
+INT010,C009,Unsupervised Learning,AI/ML,Advanced,28,0.7846260914235738
+INT011,C009,Unsupervised Learning,AI/ML,Advanced,28,2.6880265805581787
+INT011,C028,Agile and Scrum,Professional Skills,Beginner,10,1.5474689473542276
+INT011,C017,Generative AI Applications,Generative AI,Advanced,24,1.5181404396835425
+INT011,C005,Statistics for Data Science,Data Science,Intermediate,22,1.4085662237531829
+INT011,C030,Technical Interview Preparation,Career,Intermediate,15,1.2799843364013836
+INT012,C017,Generative AI Applications,Generative AI,Advanced,24,1.9770733642870428
+INT012,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.5373689728920719
+INT012,C023,AWS Fundamentals,Cloud,Intermediate,25,1.480984485638513
+INT012,C030,Technical Interview Preparation,Career,Intermediate,15,1.3562584513867677
+INT012,C018,Git and GitHub,Software Tools,Beginner,10,1.1636095460735547
+INT013,C004,Data Analysis with Pandas,Data Science,Intermediate,25,2.515605695666735
+INT013,C014,Natural Language Processing,AI/ML,Advanced,30,2.0372489071666005
+INT013,C025,MLOps Fundamentals,MLOps,Advanced,30,1.9322138800117563
+INT013,C013,Computer Vision,AI/ML,Advanced,30,1.7259781587885918
+INT013,C027,Software Testing,Software Engineering,Intermediate,20,1.417436570583272
+INT014,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.7118653950368996
+INT014,C027,Software Testing,Software Engineering,Intermediate,20,1.1474526457464753
+INT014,C019,APIs with Python,Programming,Intermediate,18,0.9330973259762356
+INT014,C006,Data Visualization,Data Science,Beginner,16,0.9081769748475814
+INT014,C023,AWS Fundamentals,Cloud,Intermediate,25,0.7352799787318834
+INT015,C014,Natural Language Processing,AI/ML,Advanced,30,2.141244818558909
+INT015,C023,AWS Fundamentals,Cloud,Intermediate,25,1.7368748727314474
+INT015,C015,LLM Fundamentals,Generative AI,Advanced,25,1.4737728186700154
+INT015,C028,Agile and Scrum,Professional Skills,Beginner,10,1.4067276032369866
+INT015,C021,FastAPI Development,Web Development,Advanced,22,1.0563083196721261
+INT016,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,2.524971481442544
+INT016,C002,Advanced Python,Programming,Intermediate,30,1.9269586109710244
+INT016,C028,Agile and Scrum,Professional Skills,Beginner,10,1.7198310016836333
+INT016,C005,Statistics for Data Science,Data Science,Intermediate,22,1.7167251869651232
+INT016,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.3629597272153862
+INT017,C026,Data Structures and Algorithms,Programming,Intermediate,35,2.4132068645264813
+INT017,C008,Supervised Learning,AI/ML,Intermediate,28,2.3504981114037267
+INT017,C024,Docker Fundamentals,DevOps,Intermediate,18,1.4133879950777335
+INT017,C005,Statistics for Data Science,Data Science,Intermediate,22,1.2753686079749662
+INT017,C022,Cloud Computing Basics,Cloud,Beginner,18,1.1382164067360743
+INT018,C027,Software Testing,Software Engineering,Intermediate,20,1.8767005528906202
+INT018,C017,Generative AI Applications,Generative AI,Advanced,24,1.8603266727542052
+INT018,C029,Communication Skills,Professional Skills,Beginner,8,1.3946032169154903
+INT018,C001,Python Basics,Programming,Beginner,20,1.356715475561931
+INT018,C021,FastAPI Development,Web Development,Advanced,22,1.2576462614155148
+INT019,C015,LLM Fundamentals,Generative AI,Advanced,25,2.1753356342093877
+INT019,C028,Agile and Scrum,Professional Skills,Beginner,10,1.2455556400114984
+INT019,C018,Git and GitHub,Software Tools,Beginner,10,0.9497643183704056
+INT019,C001,Python Basics,Programming,Beginner,20,0.8419279989478253
+INT019,C024,Docker Fundamentals,DevOps,Intermediate,18,0.8191304785299257
+INT020,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.589314126622064
+INT020,C024,Docker Fundamentals,DevOps,Intermediate,18,1.436140736082687
+INT020,C029,Communication Skills,Professional Skills,Beginner,8,1.3498643696781054
+INT020,C010,Feature Engineering,AI/ML,Advanced,20,1.3108614821552884
+INT020,C018,Git and GitHub,Software Tools,Beginner,10,1.0332636712377905
+INT021,C014,Natural Language Processing,AI/ML,Advanced,30,2.036867790711427
+INT021,C025,MLOps Fundamentals,MLOps,Advanced,30,1.2945968924186522
+INT021,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.2585911222187893
+INT021,C010,Feature Engineering,AI/ML,Advanced,20,1.0339318731102591
+INT021,C003,SQL Fundamentals,Data,Beginner,18,0.7890358751778067
+INT022,C030,Technical Interview Preparation,Career,Intermediate,15,1.5461964419422702
+INT022,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.5106292157217411
+INT022,C008,Supervised Learning,AI/ML,Intermediate,28,1.413041358937763
+INT022,C017,Generative AI Applications,Generative AI,Advanced,24,1.1918678548563277
+INT022,C021,FastAPI Development,Web Development,Advanced,22,1.165298108407278
+INT023,C013,Computer Vision,AI/ML,Advanced,30,2.08592154548967
+INT023,C009,Unsupervised Learning,AI/ML,Advanced,28,1.955034638314372
+INT023,C003,SQL Fundamentals,Data,Beginner,18,1.9429369297364507
+INT023,C010,Feature Engineering,AI/ML,Advanced,20,1.3722851514132557
+INT023,C015,LLM Fundamentals,Generative AI,Advanced,25,1.3540390594445273
+INT024,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.9915093904681094
+INT024,C013,Computer Vision,AI/ML,Advanced,30,1.6287314665407577
+INT024,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.4207991128130382
+INT024,C029,Communication Skills,Professional Skills,Beginner,8,1.06200757586274
+INT024,C003,SQL Fundamentals,Data,Beginner,18,0.6635165911387544
+INT025,C010,Feature Engineering,AI/ML,Advanced,20,2.219407816378285
+INT025,C023,AWS Fundamentals,Cloud,Intermediate,25,1.5341513344886555
+INT025,C015,LLM Fundamentals,Generative AI,Advanced,25,1.2578669515662528
+INT025,C020,Flask for Beginners,Web Development,Intermediate,20,1.2042727619372637
+INT025,C003,SQL Fundamentals,Data,Beginner,18,1.1159512316870308
+INT026,C018,Git and GitHub,Software Tools,Beginner,10,2.3293722600056785
+INT026,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.9829098125129818
+INT026,C019,APIs with Python,Programming,Intermediate,18,1.7806752598349813
+INT026,C006,Data Visualization,Data Science,Beginner,16,1.6586407142361332
+INT026,C021,FastAPI Development,Web Development,Advanced,22,1.3102999544408884
+INT027,C006,Data Visualization,Data Science,Beginner,16,1.9416035568311287
+INT027,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.7714925163208213
+INT027,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.503116050719568
+INT027,C016,Prompt Engineering,Generative AI,Intermediate,12,1.099095503287979
+INT027,C019,APIs with Python,Programming,Intermediate,18,0.9445788926972607
+INT028,C013,Computer Vision,AI/ML,Advanced,30,2.1532690830463634
+INT028,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.6782078066619663
+INT028,C029,Communication Skills,Professional Skills,Beginner,8,1.5439383391211814
+INT028,C025,MLOps Fundamentals,MLOps,Advanced,30,1.278040207126744
+INT028,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,0.8183244541654003
+INT029,C010,Feature Engineering,AI/ML,Advanced,20,2.332902718463092
+INT029,C002,Advanced Python,Programming,Intermediate,30,1.8130796594616803
+INT029,C019,APIs with Python,Programming,Intermediate,18,1.6127772190444847
+INT029,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.488357963132637
+INT029,C003,SQL Fundamentals,Data,Beginner,18,1.3039787765076098
+INT030,C019,APIs with Python,Programming,Intermediate,18,1.195257730628085
+INT030,C013,Computer Vision,AI/ML,Advanced,30,0.9327499760371154
+INT030,C016,Prompt Engineering,Generative AI,Intermediate,12,0.808512734526265
+INT030,C017,Generative AI Applications,Generative AI,Advanced,24,0.8042438979077046
+INT030,C029,Communication Skills,Professional Skills,Beginner,8,0.7717631961518775
+INT031,C028,Agile and Scrum,Professional Skills,Beginner,10,2.3188439707517516
+INT031,C005,Statistics for Data Science,Data Science,Intermediate,22,2.171260345711972
+INT031,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.8612019433194122
+INT031,C023,AWS Fundamentals,Cloud,Intermediate,25,1.7203981084303221
+INT031,C024,Docker Fundamentals,DevOps,Intermediate,18,1.6806396376984372
+INT032,C004,Data Analysis with Pandas,Data Science,Intermediate,25,2.577461126346662
+INT032,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.123183389696531
+INT032,C019,APIs with Python,Programming,Intermediate,18,0.8999300105608296
+INT032,C003,SQL Fundamentals,Data,Beginner,18,0.8018665856153613
+INT032,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,0.7787161325220078
+INT033,C010,Feature Engineering,AI/ML,Advanced,20,2.197880744976679
+INT033,C002,Advanced Python,Programming,Intermediate,30,1.3037139301364928
+INT033,C027,Software Testing,Software Engineering,Intermediate,20,1.1530250985122914
+INT033,C015,LLM Fundamentals,Generative AI,Advanced,25,0.9203525308651441
+INT033,C022,Cloud Computing Basics,Cloud,Beginner,18,0.886868435788518
+INT034,C009,Unsupervised Learning,AI/ML,Advanced,28,2.2175421344620174
+INT034,C028,Agile and Scrum,Professional Skills,Beginner,10,1.7508782801644236
+INT034,C027,Software Testing,Software Engineering,Intermediate,20,1.426762531708989
+INT034,C030,Technical Interview Preparation,Career,Intermediate,15,1.4024680889521643
+INT034,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.3997528699442894
+INT035,C029,Communication Skills,Professional Skills,Beginner,8,1.7574989759407738
+INT035,C005,Statistics for Data Science,Data Science,Intermediate,22,1.5863050637790692
+INT035,C024,Docker Fundamentals,DevOps,Intermediate,18,1.4397372331970444
+INT035,C015,LLM Fundamentals,Generative AI,Advanced,25,1.2201905193555005
+INT035,C017,Generative AI Applications,Generative AI,Advanced,24,1.035101329497765
+INT036,C030,Technical Interview Preparation,Career,Intermediate,15,1.682636576929158
+INT036,C005,Statistics for Data Science,Data Science,Intermediate,22,1.4736710715190862
+INT036,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.1122903230815124
+INT036,C006,Data Visualization,Data Science,Beginner,16,0.9044950924623844
+INT036,C021,FastAPI Development,Web Development,Advanced,22,0.8815717057623216
+INT037,C022,Cloud Computing Basics,Cloud,Beginner,18,2.2942347523421422
+INT037,C009,Unsupervised Learning,AI/ML,Advanced,28,1.9254138639737959
+INT037,C014,Natural Language Processing,AI/ML,Advanced,30,1.6475411723847448
+INT037,C024,Docker Fundamentals,DevOps,Intermediate,18,1.5727092323098488
+INT037,C030,Technical Interview Preparation,Career,Intermediate,15,1.1460236321253365
+INT038,C029,Communication Skills,Professional Skills,Beginner,8,2.1709225626093773
+INT038,C028,Agile and Scrum,Professional Skills,Beginner,10,1.7218410395507013
+INT038,C006,Data Visualization,Data Science,Beginner,16,1.5493534423648667
+INT038,C025,MLOps Fundamentals,MLOps,Advanced,30,1.2455987421055155
+INT038,C020,Flask for Beginners,Web Development,Intermediate,20,1.2217692426113098
+INT039,C026,Data Structures and Algorithms,Programming,Intermediate,35,2.374718635176801
+INT039,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.4309644374981874
+INT039,C020,Flask for Beginners,Web Development,Intermediate,20,1.0402426257159705
+INT039,C002,Advanced Python,Programming,Intermediate,30,1.0227645893695343
+INT039,C030,Technical Interview Preparation,Career,Intermediate,15,0.9889909791726187
+INT040,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,2.2809936745517185
+INT040,C020,Flask for Beginners,Web Development,Intermediate,20,1.7149541004674516
+INT040,C006,Data Visualization,Data Science,Beginner,16,1.2530404769978167
+INT040,C030,Technical Interview Preparation,Career,Intermediate,15,1.0891573060348057
+INT040,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.0544145006831618
+INT041,C029,Communication Skills,Professional Skills,Beginner,8,2.170876109278995
+INT041,C015,LLM Fundamentals,Generative AI,Advanced,25,2.096479723077384
+INT041,C024,Docker Fundamentals,DevOps,Intermediate,18,1.7284429799617254
+INT041,C008,Supervised Learning,AI/ML,Intermediate,28,1.301554396657767
+INT041,C028,Agile and Scrum,Professional Skills,Beginner,10,0.9939871969312737
+INT042,C029,Communication Skills,Professional Skills,Beginner,8,2.431758758771951
+INT042,C030,Technical Interview Preparation,Career,Intermediate,15,1.7082661121451048
+INT042,C028,Agile and Scrum,Professional Skills,Beginner,10,1.6975201629162977
+INT042,C023,AWS Fundamentals,Cloud,Intermediate,25,1.404435262433075
+INT042,C024,Docker Fundamentals,DevOps,Intermediate,18,1.3513470709592132
+INT043,C016,Prompt Engineering,Generative AI,Intermediate,12,1.4652954184990432
+INT043,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.4164931287626565
+INT043,C017,Generative AI Applications,Generative AI,Advanced,24,1.149123958398059
+INT043,C029,Communication Skills,Professional Skills,Beginner,8,0.9529733582336997
+INT043,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,0.9463084879550159
+INT044,C013,Computer Vision,AI/ML,Advanced,30,2.844609641979496
+INT044,C015,LLM Fundamentals,Generative AI,Advanced,25,2.005132944530088
+INT044,C028,Agile and Scrum,Professional Skills,Beginner,10,1.8807733711800751
+INT044,C025,MLOps Fundamentals,MLOps,Advanced,30,1.8228891700210026
+INT044,C001,Python Basics,Programming,Beginner,20,1.4650615317126383
+INT045,C013,Computer Vision,AI/ML,Advanced,30,1.4399653397751355
+INT045,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.1231377128501618
+INT045,C024,Docker Fundamentals,DevOps,Intermediate,18,1.013627269733993
+INT045,C009,Unsupervised Learning,AI/ML,Advanced,28,0.9970975131933704
+INT045,C029,Communication Skills,Professional Skills,Beginner,8,0.991369000683107
+INT046,C010,Feature Engineering,AI/ML,Advanced,20,1.8347696226535284
+INT046,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.6744977979860332
+INT046,C024,Docker Fundamentals,DevOps,Intermediate,18,1.3747416570275166
+INT046,C008,Supervised Learning,AI/ML,Intermediate,28,1.282180927753141
+INT046,C025,MLOps Fundamentals,MLOps,Advanced,30,1.2632644812217706
+INT047,C025,MLOps Fundamentals,MLOps,Advanced,30,2.7776722780574534
+INT047,C016,Prompt Engineering,Generative AI,Intermediate,12,2.1161330435191275
+INT047,C019,APIs with Python,Programming,Intermediate,18,2.0590305282407964
+INT047,C017,Generative AI Applications,Generative AI,Advanced,24,1.7148944980776546
+INT047,C013,Computer Vision,AI/ML,Advanced,30,1.202165261562768
+INT048,C019,APIs with Python,Programming,Intermediate,18,2.3150979104201155
+INT048,C004,Data Analysis with Pandas,Data Science,Intermediate,25,2.2869436096379463
+INT048,C021,FastAPI Development,Web Development,Advanced,22,2.2741963362996747
+INT048,C009,Unsupervised Learning,AI/ML,Advanced,28,0.9990318445973717
+INT048,C001,Python Basics,Programming,Beginner,20,0.909894996735612
+INT049,C022,Cloud Computing Basics,Cloud,Beginner,18,2.70074334335625
+INT049,C006,Data Visualization,Data Science,Beginner,16,1.5532356823032878
+INT049,C027,Software Testing,Software Engineering,Intermediate,20,1.1222295098350505
+INT049,C019,APIs with Python,Programming,Intermediate,18,1.031454653553158
+INT049,C028,Agile and Scrum,Professional Skills,Beginner,10,0.9492475307221607
+INT050,C002,Advanced Python,Programming,Intermediate,30,2.2847643099439643
+INT050,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.8620605451537404
+INT050,C016,Prompt Engineering,Generative AI,Intermediate,12,1.8109709042373374
+INT050,C028,Agile and Scrum,Professional Skills,Beginner,10,1.2871608532279963
+INT050,C023,AWS Fundamentals,Cloud,Intermediate,25,1.2460967858280676
+INT051,C007,Machine Learning Basics,AI/ML,Intermediate,30,2.661245463988454
+INT051,C024,Docker Fundamentals,DevOps,Intermediate,18,1.5469412438919024
+INT051,C014,Natural Language Processing,AI/ML,Advanced,30,1.4719450963483882
+INT051,C030,Technical Interview Preparation,Career,Intermediate,15,1.216473801853657
+INT051,C019,APIs with Python,Programming,Intermediate,18,1.1568321173160578
+INT052,C016,Prompt Engineering,Generative AI,Intermediate,12,2.383525487671047
+INT052,C010,Feature Engineering,AI/ML,Advanced,20,1.8199891494018923
+INT052,C027,Software Testing,Software Engineering,Intermediate,20,1.1121915253393788
+INT052,C030,Technical Interview Preparation,Career,Intermediate,15,0.8941778984116987
+INT052,C028,Agile and Scrum,Professional Skills,Beginner,10,0.8342649566739845
+INT053,C024,Docker Fundamentals,DevOps,Intermediate,18,2.238387415479455
+INT053,C005,Statistics for Data Science,Data Science,Intermediate,22,1.197735940557129
+INT053,C019,APIs with Python,Programming,Intermediate,18,0.8964757396903956
+INT053,C028,Agile and Scrum,Professional Skills,Beginner,10,0.8945556933792074
+INT053,C013,Computer Vision,AI/ML,Advanced,30,0.8699904481521608
+INT054,C010,Feature Engineering,AI/ML,Advanced,20,2.2132192008137253
+INT054,C021,FastAPI Development,Web Development,Advanced,22,2.0928531288891055
+INT054,C018,Git and GitHub,Software Tools,Beginner,10,2.07975864098956
+INT054,C006,Data Visualization,Data Science,Beginner,16,1.9056582954729249
+INT054,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.3295665992786851
+INT055,C008,Supervised Learning,AI/ML,Intermediate,28,2.958718764747522
+INT055,C025,MLOps Fundamentals,MLOps,Advanced,30,1.1955846751444883
+INT055,C028,Agile and Scrum,Professional Skills,Beginner,10,1.1854540440212842
+INT055,C001,Python Basics,Programming,Beginner,20,1.168933020893054
+INT055,C023,AWS Fundamentals,Cloud,Intermediate,25,1.090204844919245
+INT056,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.6510249794958602
+INT056,C024,Docker Fundamentals,DevOps,Intermediate,18,1.4235817605133367
+INT056,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.3235444822610742
+INT056,C008,Supervised Learning,AI/ML,Intermediate,28,1.2684556346495128
+INT056,C025,MLOps Fundamentals,MLOps,Advanced,30,1.0915147118358126
+INT057,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,2.0400889396179456
+INT057,C017,Generative AI Applications,Generative AI,Advanced,24,1.7942810085463552
+INT057,C008,Supervised Learning,AI/ML,Intermediate,28,1.6148241058298158
+INT057,C030,Technical Interview Preparation,Career,Intermediate,15,1.332327798412431
+INT057,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.2755950115747907
+INT058,C013,Computer Vision,AI/ML,Advanced,30,2.176484640074505
+INT058,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.9999532378349212
+INT058,C018,Git and GitHub,Software Tools,Beginner,10,1.8930074858240094
+INT058,C025,MLOps Fundamentals,MLOps,Advanced,30,1.2708433488101087
+INT058,C019,APIs with Python,Programming,Intermediate,18,1.2571082427131792
+INT059,C025,MLOps Fundamentals,MLOps,Advanced,30,1.7519593376323215
+INT059,C002,Advanced Python,Programming,Intermediate,30,1.5955259870722682
+INT059,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.2930127318393645
+INT059,C003,SQL Fundamentals,Data,Beginner,18,1.2858977902008801
+INT059,C022,Cloud Computing Basics,Cloud,Beginner,18,1.2622145369864297
+INT060,C013,Computer Vision,AI/ML,Advanced,30,2.4016676000803363
+INT060,C026,Data Structures and Algorithms,Programming,Intermediate,35,2.270945039562322
+INT060,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.6876073348738518
+INT060,C029,Communication Skills,Professional Skills,Beginner,8,1.6535469076445266
+INT060,C021,FastAPI Development,Web Development,Advanced,22,1.6201313657938115
+INT061,C005,Statistics for Data Science,Data Science,Intermediate,22,2.8701130584715577
+INT061,C006,Data Visualization,Data Science,Beginner,16,2.452580264976108
+INT061,C020,Flask for Beginners,Web Development,Intermediate,20,2.192528141426107
+INT061,C021,FastAPI Development,Web Development,Advanced,22,1.3707012231574915
+INT061,C027,Software Testing,Software Engineering,Intermediate,20,1.1262786008604664
+INT062,C025,MLOps Fundamentals,MLOps,Advanced,30,1.3476021895915893
+INT062,C018,Git and GitHub,Software Tools,Beginner,10,0.907340155215811
+INT062,C003,SQL Fundamentals,Data,Beginner,18,0.8556042562145775
+INT062,C021,FastAPI Development,Web Development,Advanced,22,0.8170014520293342
+INT062,C028,Agile and Scrum,Professional Skills,Beginner,10,0.7019523997385962
+INT063,C009,Unsupervised Learning,AI/ML,Advanced,28,2.526402633153499
+INT063,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,2.1093204851259593
+INT063,C008,Supervised Learning,AI/ML,Intermediate,28,1.3928107943018169
+INT063,C001,Python Basics,Programming,Beginner,20,1.1799856520474994
+INT063,C005,Statistics for Data Science,Data Science,Intermediate,22,1.1159886917972615
+INT064,C003,SQL Fundamentals,Data,Beginner,18,2.0537914842526597
+INT064,C009,Unsupervised Learning,AI/ML,Advanced,28,1.7696417546164849
+INT064,C016,Prompt Engineering,Generative AI,Intermediate,12,1.6889847601263288
+INT064,C022,Cloud Computing Basics,Cloud,Beginner,18,1.6591071047327308
+INT064,C015,LLM Fundamentals,Generative AI,Advanced,25,1.3739993263242376
+INT065,C014,Natural Language Processing,AI/ML,Advanced,30,2.5054994667245722
+INT065,C002,Advanced Python,Programming,Intermediate,30,1.8656570118579008
+INT065,C010,Feature Engineering,AI/ML,Advanced,20,1.8258230557539026
+INT065,C023,AWS Fundamentals,Cloud,Intermediate,25,0.8487241244463353
+INT065,C028,Agile and Scrum,Professional Skills,Beginner,10,0.7743788615777882
+INT066,C002,Advanced Python,Programming,Intermediate,30,1.6171040522874998
+INT066,C014,Natural Language Processing,AI/ML,Advanced,30,1.5080211166273882
+INT066,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.4445091940317927
+INT066,C025,MLOps Fundamentals,MLOps,Advanced,30,1.3218667320895092
+INT066,C010,Feature Engineering,AI/ML,Advanced,20,0.9872496772743945
+INT067,C008,Supervised Learning,AI/ML,Intermediate,28,2.3393899424303677
+INT067,C024,Docker Fundamentals,DevOps,Intermediate,18,1.7043175973129643
+INT067,C016,Prompt Engineering,Generative AI,Intermediate,12,1.4318454081820262
+INT067,C001,Python Basics,Programming,Beginner,20,1.3696603066787378
+INT067,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.2541833913226934
+INT068,C029,Communication Skills,Professional Skills,Beginner,8,2.160901068203917
+INT068,C024,Docker Fundamentals,DevOps,Intermediate,18,1.954341951244794
+INT068,C019,APIs with Python,Programming,Intermediate,18,1.3714898566326816
+INT068,C020,Flask for Beginners,Web Development,Intermediate,20,1.2077967634855236
+INT068,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.0043906156043112
+INT069,C003,SQL Fundamentals,Data,Beginner,18,2.86089512932731
+INT069,C017,Generative AI Applications,Generative AI,Advanced,24,1.5588500856465677
+INT069,C029,Communication Skills,Professional Skills,Beginner,8,1.2806505758326732
+INT069,C002,Advanced Python,Programming,Intermediate,30,1.0901157194255229
+INT069,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,0.8412838655229129
+INT070,C021,FastAPI Development,Web Development,Advanced,22,1.719045696964612
+INT070,C020,Flask for Beginners,Web Development,Intermediate,20,1.525568068932779
+INT070,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.3197211484047844
+INT070,C015,LLM Fundamentals,Generative AI,Advanced,25,1.309269901240701
+INT070,C023,AWS Fundamentals,Cloud,Intermediate,25,1.0345112871419382
+INT071,C022,Cloud Computing Basics,Cloud,Beginner,18,2.5116021852844006
+INT071,C020,Flask for Beginners,Web Development,Intermediate,20,2.4395865817400955
+INT071,C027,Software Testing,Software Engineering,Intermediate,20,1.7604298939336869
+INT071,C028,Agile and Scrum,Professional Skills,Beginner,10,1.6663107656042944
+INT071,C030,Technical Interview Preparation,Career,Intermediate,15,1.4453972217394992
+INT072,C025,MLOps Fundamentals,MLOps,Advanced,30,2.252753088579066
+INT072,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.7176227793764232
+INT072,C019,APIs with Python,Programming,Intermediate,18,1.4310196126415684
+INT072,C002,Advanced Python,Programming,Intermediate,30,1.1137943723211
+INT072,C005,Statistics for Data Science,Data Science,Intermediate,22,0.8178916693705588
+INT073,C006,Data Visualization,Data Science,Beginner,16,2.2760063806582207
+INT073,C002,Advanced Python,Programming,Intermediate,30,1.7882344384445934
+INT073,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.5191800299446274
+INT073,C010,Feature Engineering,AI/ML,Advanced,20,1.4049450057777684
+INT073,C022,Cloud Computing Basics,Cloud,Beginner,18,1.3735914402016074
+INT074,C006,Data Visualization,Data Science,Beginner,16,3.2935655149036656
+INT074,C029,Communication Skills,Professional Skills,Beginner,8,1.4328375620117964
+INT074,C013,Computer Vision,AI/ML,Advanced,30,1.2800708338746127
+INT074,C030,Technical Interview Preparation,Career,Intermediate,15,1.2344254013386293
+INT074,C027,Software Testing,Software Engineering,Intermediate,20,1.0830908276288984
+INT075,C019,APIs with Python,Programming,Intermediate,18,3.1357945255024857
+INT075,C024,Docker Fundamentals,DevOps,Intermediate,18,2.03550453236035
+INT075,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.9127229060859319
+INT075,C003,SQL Fundamentals,Data,Beginner,18,1.889056448996195
+INT075,C028,Agile and Scrum,Professional Skills,Beginner,10,1.3491296284550431
+INT076,C002,Advanced Python,Programming,Intermediate,30,1.5473893638339917
+INT076,C015,LLM Fundamentals,Generative AI,Advanced,25,1.445056389491422
+INT076,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.2425342349481432
+INT076,C023,AWS Fundamentals,Cloud,Intermediate,25,1.213500141311196
+INT076,C018,Git and GitHub,Software Tools,Beginner,10,1.1120827205157664
+INT077,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,3.1036824988234866
+INT077,C013,Computer Vision,AI/ML,Advanced,30,1.8218527440842887
+INT077,C002,Advanced Python,Programming,Intermediate,30,1.3511779271000173
+INT077,C022,Cloud Computing Basics,Cloud,Beginner,18,1.3108867250489353
+INT077,C023,AWS Fundamentals,Cloud,Intermediate,25,1.2112592385626133
+INT078,C023,AWS Fundamentals,Cloud,Intermediate,25,1.8842644123734908
+INT078,C020,Flask for Beginners,Web Development,Intermediate,20,1.8698256837059142
+INT078,C015,LLM Fundamentals,Generative AI,Advanced,25,1.7666195507079168
+INT078,C013,Computer Vision,AI/ML,Advanced,30,1.7357800451685457
+INT078,C019,APIs with Python,Programming,Intermediate,18,1.6978785084033954
+INT079,C010,Feature Engineering,AI/ML,Advanced,20,3.0102074162224324
+INT079,C016,Prompt Engineering,Generative AI,Intermediate,12,1.7997831730651788
+INT079,C030,Technical Interview Preparation,Career,Intermediate,15,1.6333636594850856
+INT079,C021,FastAPI Development,Web Development,Advanced,22,0.9562384922851187
+INT079,C027,Software Testing,Software Engineering,Intermediate,20,0.9100237480980238
+INT080,C016,Prompt Engineering,Generative AI,Intermediate,12,2.898435524843779
+INT080,C006,Data Visualization,Data Science,Beginner,16,2.5541333567886984
+INT080,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.967316583852252
+INT080,C013,Computer Vision,AI/ML,Advanced,30,1.723466780368314
+INT080,C009,Unsupervised Learning,AI/ML,Advanced,28,1.7205790171360509
+INT081,C028,Agile and Scrum,Professional Skills,Beginner,10,2.119192294652552
+INT081,C010,Feature Engineering,AI/ML,Advanced,20,1.7951848609399852
+INT081,C024,Docker Fundamentals,DevOps,Intermediate,18,1.7711427909174242
+INT081,C016,Prompt Engineering,Generative AI,Intermediate,12,1.7050421005321488
+INT081,C015,LLM Fundamentals,Generative AI,Advanced,25,1.0743812249219278
+INT082,C009,Unsupervised Learning,AI/ML,Advanced,28,1.5487589098297625
+INT082,C006,Data Visualization,Data Science,Beginner,16,1.4835432384979803
+INT082,C016,Prompt Engineering,Generative AI,Intermediate,12,1.31498251305084
+INT082,C003,SQL Fundamentals,Data,Beginner,18,1.229810250954834
+INT082,C014,Natural Language Processing,AI/ML,Advanced,30,1.1317818464027167
+INT083,C023,AWS Fundamentals,Cloud,Intermediate,25,1.5901499515669115
+INT083,C028,Agile and Scrum,Professional Skills,Beginner,10,1.5031649635996562
+INT083,C008,Supervised Learning,AI/ML,Intermediate,28,1.10441969971054
+INT083,C004,Data Analysis with Pandas,Data Science,Intermediate,25,0.6948555108659931
+INT083,C029,Communication Skills,Professional Skills,Beginner,8,0.5936821039366095
+INT084,C026,Data Structures and Algorithms,Programming,Intermediate,35,2.3851487924424117
+INT084,C018,Git and GitHub,Software Tools,Beginner,10,1.0638932946040751
+INT084,C009,Unsupervised Learning,AI/ML,Advanced,28,1.0386077730556893
+INT084,C027,Software Testing,Software Engineering,Intermediate,20,0.8300758395680106
+INT084,C022,Cloud Computing Basics,Cloud,Beginner,18,0.8222547850180872
+INT085,C026,Data Structures and Algorithms,Programming,Intermediate,35,2.540875909394611
+INT085,C014,Natural Language Processing,AI/ML,Advanced,30,2.192465723148417
+INT085,C022,Cloud Computing Basics,Cloud,Beginner,18,1.6249409552263334
+INT085,C016,Prompt Engineering,Generative AI,Intermediate,12,1.3784502069515054
+INT085,C030,Technical Interview Preparation,Career,Intermediate,15,1.293751375059497
+INT086,C015,LLM Fundamentals,Generative AI,Advanced,25,2.60830695484713
+INT086,C002,Advanced Python,Programming,Intermediate,30,1.534424773499125
+INT086,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.4183361112864978
+INT086,C018,Git and GitHub,Software Tools,Beginner,10,1.4113162394061574
+INT086,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.1861956033650272
+INT087,C018,Git and GitHub,Software Tools,Beginner,10,2.4998570476840527
+INT087,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,2.143799286685879
+INT087,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.8989967647500663
+INT087,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.5080688156259712
+INT087,C003,SQL Fundamentals,Data,Beginner,18,1.4830750180205312
+INT088,C001,Python Basics,Programming,Beginner,20,1.5982700639332001
+INT088,C015,LLM Fundamentals,Generative AI,Advanced,25,1.3980283934862847
+INT088,C022,Cloud Computing Basics,Cloud,Beginner,18,1.3805861642689339
+INT088,C025,MLOps Fundamentals,MLOps,Advanced,30,1.154636834972124
+INT088,C029,Communication Skills,Professional Skills,Beginner,8,0.8295971263297867
+INT089,C007,Machine Learning Basics,AI/ML,Intermediate,30,2.1453082330466424
+INT089,C020,Flask for Beginners,Web Development,Intermediate,20,1.2428201017984883
+INT089,C015,LLM Fundamentals,Generative AI,Advanced,25,1.1796744978562126
+INT089,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,0.911033624513609
+INT089,C028,Agile and Scrum,Professional Skills,Beginner,10,0.8581253893185236
+INT090,C010,Feature Engineering,AI/ML,Advanced,20,2.760963667927951
+INT090,C003,SQL Fundamentals,Data,Beginner,18,1.7781895579295048
+INT090,C022,Cloud Computing Basics,Cloud,Beginner,18,1.0600052608743138
+INT090,C021,FastAPI Development,Web Development,Advanced,22,0.911147289908051
+INT090,C016,Prompt Engineering,Generative AI,Intermediate,12,0.9084182741636603
+INT091,C004,Data Analysis with Pandas,Data Science,Intermediate,25,2.02486429663837
+INT091,C028,Agile and Scrum,Professional Skills,Beginner,10,2.0190280302991046
+INT091,C023,AWS Fundamentals,Cloud,Intermediate,25,1.3679983656841623
+INT091,C018,Git and GitHub,Software Tools,Beginner,10,1.2178766254628368
+INT091,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.1703473944703884
+INT092,C016,Prompt Engineering,Generative AI,Intermediate,12,1.932975841903719
+INT092,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.8984929300316338
+INT092,C005,Statistics for Data Science,Data Science,Intermediate,22,1.861902808625954
+INT092,C008,Supervised Learning,AI/ML,Intermediate,28,1.3499436784604113
+INT092,C018,Git and GitHub,Software Tools,Beginner,10,1.080470128144663
+INT093,C008,Supervised Learning,AI/ML,Intermediate,28,2.5072061332461657
+INT093,C017,Generative AI Applications,Generative AI,Advanced,24,2.061941984363267
+INT093,C023,AWS Fundamentals,Cloud,Intermediate,25,2.0085961248435096
+INT093,C030,Technical Interview Preparation,Career,Intermediate,15,1.7460699790892442
+INT093,C016,Prompt Engineering,Generative AI,Intermediate,12,1.3268295333894218
+INT094,C025,MLOps Fundamentals,MLOps,Advanced,30,1.505916675006395
+INT094,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.333090634624957
+INT094,C019,APIs with Python,Programming,Intermediate,18,1.2308007060962425
+INT094,C029,Communication Skills,Professional Skills,Beginner,8,0.8234805678104339
+INT094,C006,Data Visualization,Data Science,Beginner,16,0.8071359573287975
+INT095,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,2.5637516164673517
+INT095,C010,Feature Engineering,AI/ML,Advanced,20,2.1125251333266
+INT095,C017,Generative AI Applications,Generative AI,Advanced,24,1.638884237182665
+INT095,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.1445071795585113
+INT095,C018,Git and GitHub,Software Tools,Beginner,10,1.1085377040927187
+INT096,C005,Statistics for Data Science,Data Science,Intermediate,22,2.307906593444316
+INT096,C025,MLOps Fundamentals,MLOps,Advanced,30,1.8687174043788106
+INT096,C008,Supervised Learning,AI/ML,Intermediate,28,1.8360298171737668
+INT096,C024,Docker Fundamentals,DevOps,Intermediate,18,1.5553573894268584
+INT096,C017,Generative AI Applications,Generative AI,Advanced,24,1.0142174577043093
+INT097,C005,Statistics for Data Science,Data Science,Intermediate,22,3.620367860567588
+INT097,C021,FastAPI Development,Web Development,Advanced,22,1.8725539941775626
+INT097,C015,LLM Fundamentals,Generative AI,Advanced,25,1.7378192568240143
+INT097,C002,Advanced Python,Programming,Intermediate,30,1.6213995493961764
+INT097,C017,Generative AI Applications,Generative AI,Advanced,24,1.5443335458063143
+INT098,C030,Technical Interview Preparation,Career,Intermediate,15,2.5410404405970515
+INT098,C007,Machine Learning Basics,AI/ML,Intermediate,30,2.091625770656204
+INT098,C016,Prompt Engineering,Generative AI,Intermediate,12,1.266016954105079
+INT098,C013,Computer Vision,AI/ML,Advanced,30,0.9434867973362635
+INT098,C023,AWS Fundamentals,Cloud,Intermediate,25,0.8652157449410995
+INT099,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.8716017123028186
+INT099,C019,APIs with Python,Programming,Intermediate,18,1.7185129781478194
+INT099,C014,Natural Language Processing,AI/ML,Advanced,30,1.624086920811755
+INT099,C018,Git and GitHub,Software Tools,Beginner,10,0.8663427393101064
+INT099,C024,Docker Fundamentals,DevOps,Intermediate,18,0.7048468552368128
+INT100,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.8990412184934333
+INT100,C005,Statistics for Data Science,Data Science,Intermediate,22,1.2575096980755727
+INT100,C028,Agile and Scrum,Professional Skills,Beginner,10,1.2276839521413638
+INT100,C024,Docker Fundamentals,DevOps,Intermediate,18,1.1961856811046756
+INT100,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.168157280562828
+INT101,C013,Computer Vision,AI/ML,Advanced,30,2.7893519349407736
+INT101,C020,Flask for Beginners,Web Development,Intermediate,20,1.8402173540795168
+INT101,C010,Feature Engineering,AI/ML,Advanced,20,1.7486207188412717
+INT101,C005,Statistics for Data Science,Data Science,Intermediate,22,1.3824850491752014
+INT101,C018,Git and GitHub,Software Tools,Beginner,10,1.1298642773014058
+INT102,C020,Flask for Beginners,Web Development,Intermediate,20,1.8641143661877444
+INT102,C027,Software Testing,Software Engineering,Intermediate,20,1.842283262696688
+INT102,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.5800139473557013
+INT102,C006,Data Visualization,Data Science,Beginner,16,1.454606335240972
+INT102,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.07504407807104
+INT103,C020,Flask for Beginners,Web Development,Intermediate,20,3.6384739602783633
+INT103,C026,Data Structures and Algorithms,Programming,Intermediate,35,2.210303242583906
+INT103,C005,Statistics for Data Science,Data Science,Intermediate,22,1.6413963478314162
+INT103,C022,Cloud Computing Basics,Cloud,Beginner,18,1.4291132912032836
+INT103,C016,Prompt Engineering,Generative AI,Intermediate,12,1.1585615038760295
+INT104,C020,Flask for Beginners,Web Development,Intermediate,20,2.963009744982694
+INT104,C015,LLM Fundamentals,Generative AI,Advanced,25,1.8671744986519154
+INT104,C027,Software Testing,Software Engineering,Intermediate,20,1.7790041396912337
+INT104,C025,MLOps Fundamentals,MLOps,Advanced,30,1.214645294408191
+INT104,C018,Git and GitHub,Software Tools,Beginner,10,1.2134398482234496
+INT105,C025,MLOps Fundamentals,MLOps,Advanced,30,1.5990866416705023
+INT105,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.5398408020761685
+INT105,C020,Flask for Beginners,Web Development,Intermediate,20,1.491675299667553
+INT105,C013,Computer Vision,AI/ML,Advanced,30,1.3859908506610903
+INT105,C006,Data Visualization,Data Science,Beginner,16,1.1003993393417393
+INT106,C020,Flask for Beginners,Web Development,Intermediate,20,1.995641970912881
+INT106,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.8110925349240932
+INT106,C019,APIs with Python,Programming,Intermediate,18,1.6278736723917904
+INT106,C027,Software Testing,Software Engineering,Intermediate,20,1.5740281110350467
+INT106,C018,Git and GitHub,Software Tools,Beginner,10,1.2462807485297616
+INT107,C016,Prompt Engineering,Generative AI,Intermediate,12,1.4881458579651565
+INT107,C009,Unsupervised Learning,AI/ML,Advanced,28,1.3057174836743701
+INT107,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.1923669675532145
+INT107,C030,Technical Interview Preparation,Career,Intermediate,15,1.130845836695929
+INT107,C013,Computer Vision,AI/ML,Advanced,30,0.9840223963757658
+INT108,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.5750183703922604
+INT108,C022,Cloud Computing Basics,Cloud,Beginner,18,1.5503146498967268
+INT108,C027,Software Testing,Software Engineering,Intermediate,20,1.0291190661416656
+INT108,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.0224872043424902
+INT108,C023,AWS Fundamentals,Cloud,Intermediate,25,0.9552376388616423
+INT109,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.474959163970253
+INT109,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.1111631185918813
+INT109,C008,Supervised Learning,AI/ML,Intermediate,28,1.0557068229553952
+INT109,C029,Communication Skills,Professional Skills,Beginner,8,0.8182902937947344
+INT109,C026,Data Structures and Algorithms,Programming,Intermediate,35,0.7462477839895886
+INT110,C016,Prompt Engineering,Generative AI,Intermediate,12,2.186149160640666
+INT110,C005,Statistics for Data Science,Data Science,Intermediate,22,1.9272691175036039
+INT110,C010,Feature Engineering,AI/ML,Advanced,20,1.8602784532640662
+INT110,C013,Computer Vision,AI/ML,Advanced,30,1.5684227158793607
+INT110,C018,Git and GitHub,Software Tools,Beginner,10,1.515187965912415
+INT111,C009,Unsupervised Learning,AI/ML,Advanced,28,1.338125276835439
+INT111,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.2307869509680298
+INT111,C003,SQL Fundamentals,Data,Beginner,18,1.0469289666313908
+INT111,C028,Agile and Scrum,Professional Skills,Beginner,10,0.9453154552112671
+INT111,C022,Cloud Computing Basics,Cloud,Beginner,18,0.8304843022704345
+INT112,C023,AWS Fundamentals,Cloud,Intermediate,25,2.111043144313935
+INT112,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.9814857652745446
+INT112,C018,Git and GitHub,Software Tools,Beginner,10,1.5154291340604074
+INT112,C030,Technical Interview Preparation,Career,Intermediate,15,1.2679100456518904
+INT112,C022,Cloud Computing Basics,Cloud,Beginner,18,0.9322194335002276
+INT113,C015,LLM Fundamentals,Generative AI,Advanced,25,1.8004246331846037
+INT113,C018,Git and GitHub,Software Tools,Beginner,10,1.5953074675188808
+INT113,C022,Cloud Computing Basics,Cloud,Beginner,18,1.42952489353258
+INT113,C017,Generative AI Applications,Generative AI,Advanced,24,1.2129915425676356
+INT113,C004,Data Analysis with Pandas,Data Science,Intermediate,25,0.9705692989830247
+INT114,C021,FastAPI Development,Web Development,Advanced,22,2.3074913150987273
+INT114,C002,Advanced Python,Programming,Intermediate,30,1.9550642272305927
+INT114,C016,Prompt Engineering,Generative AI,Intermediate,12,1.4224177871030115
+INT114,C007,Machine Learning Basics,AI/ML,Intermediate,30,0.9274774501199428
+INT114,C030,Technical Interview Preparation,Career,Intermediate,15,0.7472434502066475
+INT115,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,2.533921710990666
+INT115,C030,Technical Interview Preparation,Career,Intermediate,15,1.8544762789046068
+INT115,C021,FastAPI Development,Web Development,Advanced,22,1.8078111121656735
+INT115,C022,Cloud Computing Basics,Cloud,Beginner,18,1.7733574713494533
+INT115,C029,Communication Skills,Professional Skills,Beginner,8,1.5287857606845003
+INT116,C008,Supervised Learning,AI/ML,Intermediate,28,2.5665994143362245
+INT116,C018,Git and GitHub,Software Tools,Beginner,10,1.6775406451851378
+INT116,C020,Flask for Beginners,Web Development,Intermediate,20,1.3838669199975946
+INT116,C028,Agile and Scrum,Professional Skills,Beginner,10,1.2956756724645464
+INT116,C015,LLM Fundamentals,Generative AI,Advanced,25,1.1736638532528227
+INT117,C015,LLM Fundamentals,Generative AI,Advanced,25,1.65470655709884
+INT117,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.6107133691956086
+INT117,C030,Technical Interview Preparation,Career,Intermediate,15,1.5150761125536814
+INT117,C028,Agile and Scrum,Professional Skills,Beginner,10,1.4546597806843622
+INT117,C021,FastAPI Development,Web Development,Advanced,22,1.4357576264822762
+INT118,C022,Cloud Computing Basics,Cloud,Beginner,18,2.50674367168003
+INT118,C030,Technical Interview Preparation,Career,Intermediate,15,1.8730937579059672
+INT118,C027,Software Testing,Software Engineering,Intermediate,20,1.5570325348916805
+INT118,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.298963693650645
+INT118,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.185645632569953
+INT119,C004,Data Analysis with Pandas,Data Science,Intermediate,25,2.4572792751921506
+INT119,C014,Natural Language Processing,AI/ML,Advanced,30,1.0426552364870803
+INT119,C021,FastAPI Development,Web Development,Advanced,22,0.9737159400258526
+INT119,C009,Unsupervised Learning,AI/ML,Advanced,28,0.9187963179164536
+INT119,C015,LLM Fundamentals,Generative AI,Advanced,25,0.8487705606153875
+INT120,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,2.192861278169756
+INT120,C015,LLM Fundamentals,Generative AI,Advanced,25,1.8610151900777752
+INT120,C003,SQL Fundamentals,Data,Beginner,18,1.4966080837505464
+INT120,C005,Statistics for Data Science,Data Science,Intermediate,22,1.4477783579029837
+INT120,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.2677974856111425
+INT121,C021,FastAPI Development,Web Development,Advanced,22,2.5880494277921455
+INT121,C027,Software Testing,Software Engineering,Intermediate,20,2.1773254056461266
+INT121,C015,LLM Fundamentals,Generative AI,Advanced,25,1.6123686556188788
+INT121,C002,Advanced Python,Programming,Intermediate,30,1.1458594228683223
+INT121,C010,Feature Engineering,AI/ML,Advanced,20,0.7633248431949635
+INT122,C027,Software Testing,Software Engineering,Intermediate,20,1.3924361129456693
+INT122,C018,Git and GitHub,Software Tools,Beginner,10,1.2779288825805386
+INT122,C030,Technical Interview Preparation,Career,Intermediate,15,0.8618536628482253
+INT122,C019,APIs with Python,Programming,Intermediate,18,0.8299282784102279
+INT122,C005,Statistics for Data Science,Data Science,Intermediate,22,0.5842674809668418
+INT123,C030,Technical Interview Preparation,Career,Intermediate,15,1.7788206265970035
+INT123,C027,Software Testing,Software Engineering,Intermediate,20,1.6285466304857106
+INT123,C014,Natural Language Processing,AI/ML,Advanced,30,1.3827130636377176
+INT123,C021,FastAPI Development,Web Development,Advanced,22,1.1565857881198802
+INT123,C025,MLOps Fundamentals,MLOps,Advanced,30,1.0315084003664705
+INT124,C013,Computer Vision,AI/ML,Advanced,30,3.4648982313950265
+INT124,C001,Python Basics,Programming,Beginner,20,1.8931150627149311
+INT124,C019,APIs with Python,Programming,Intermediate,18,1.374850906844126
+INT124,C029,Communication Skills,Professional Skills,Beginner,8,1.2494988705442613
+INT124,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.1671574130224516
+INT125,C008,Supervised Learning,AI/ML,Intermediate,28,3.081319502071345
+INT125,C005,Statistics for Data Science,Data Science,Intermediate,22,2.8209625445995634
+INT125,C030,Technical Interview Preparation,Career,Intermediate,15,1.8410617469263617
+INT125,C018,Git and GitHub,Software Tools,Beginner,10,1.5568451332515092
+INT125,C019,APIs with Python,Programming,Intermediate,18,1.526234343219491
+INT126,C002,Advanced Python,Programming,Intermediate,30,1.8581030445143547
+INT126,C029,Communication Skills,Professional Skills,Beginner,8,1.2658189376275064
+INT126,C006,Data Visualization,Data Science,Beginner,16,1.2362441466805887
+INT126,C030,Technical Interview Preparation,Career,Intermediate,15,1.1824395291375418
+INT126,C016,Prompt Engineering,Generative AI,Intermediate,12,1.0939591530520434
+INT127,C029,Communication Skills,Professional Skills,Beginner,8,1.7825967766580835
+INT127,C030,Technical Interview Preparation,Career,Intermediate,15,1.715543770270124
+INT127,C025,MLOps Fundamentals,MLOps,Advanced,30,0.823963870347568
+INT127,C023,AWS Fundamentals,Cloud,Intermediate,25,0.6954295914796496
+INT127,C001,Python Basics,Programming,Beginner,20,0.6234518624884542
+INT128,C029,Communication Skills,Professional Skills,Beginner,8,1.7534225374941206
+INT128,C028,Agile and Scrum,Professional Skills,Beginner,10,1.5694686297075962
+INT128,C024,Docker Fundamentals,DevOps,Intermediate,18,1.3746181356103664
+INT128,C023,AWS Fundamentals,Cloud,Intermediate,25,1.2113673433529977
+INT128,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.1532113328762374
+INT129,C021,FastAPI Development,Web Development,Advanced,22,2.299311519155094
+INT129,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.2720574108442886
+INT129,C025,MLOps Fundamentals,MLOps,Advanced,30,0.9251654852681972
+INT129,C015,LLM Fundamentals,Generative AI,Advanced,25,0.8144929805232549
+INT129,C003,SQL Fundamentals,Data,Beginner,18,0.7898542128274041
+INT130,C016,Prompt Engineering,Generative AI,Intermediate,12,2.6984711946890463
+INT130,C022,Cloud Computing Basics,Cloud,Beginner,18,2.67440083420687
+INT130,C006,Data Visualization,Data Science,Beginner,16,2.6310948052045284
+INT130,C021,FastAPI Development,Web Development,Advanced,22,2.2883326780614106
+INT130,C013,Computer Vision,AI/ML,Advanced,30,1.1283551618781231
+INT131,C020,Flask for Beginners,Web Development,Intermediate,20,1.6584045957533653
+INT131,C009,Unsupervised Learning,AI/ML,Advanced,28,1.6530933601718143
+INT131,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.424804805535457
+INT131,C003,SQL Fundamentals,Data,Beginner,18,1.3636577447224116
+INT131,C015,LLM Fundamentals,Generative AI,Advanced,25,1.1668022611202316
+INT132,C014,Natural Language Processing,AI/ML,Advanced,30,1.9100830999872087
+INT132,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.7888058040899573
+INT132,C018,Git and GitHub,Software Tools,Beginner,10,1.5991130617558862
+INT132,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.3643403662155162
+INT132,C006,Data Visualization,Data Science,Beginner,16,1.1700892125809426
+INT133,C021,FastAPI Development,Web Development,Advanced,22,2.4751327667987084
+INT133,C003,SQL Fundamentals,Data,Beginner,18,1.5879103696887071
+INT133,C024,Docker Fundamentals,DevOps,Intermediate,18,1.555701390334625
+INT133,C008,Supervised Learning,AI/ML,Intermediate,28,1.1942452614120782
+INT133,C030,Technical Interview Preparation,Career,Intermediate,15,1.1610541990957035
+INT134,C021,FastAPI Development,Web Development,Advanced,22,2.1094846180394646
+INT134,C013,Computer Vision,AI/ML,Advanced,30,1.8842033965796765
+INT134,C003,SQL Fundamentals,Data,Beginner,18,1.5240830543517054
+INT134,C030,Technical Interview Preparation,Career,Intermediate,15,1.4279995282390365
+INT134,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.3579894868954703
+INT135,C028,Agile and Scrum,Professional Skills,Beginner,10,2.0737288528151225
+INT135,C002,Advanced Python,Programming,Intermediate,30,1.9335311333633798
+INT135,C022,Cloud Computing Basics,Cloud,Beginner,18,1.1703559769545857
+INT135,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.0763728099832022
+INT135,C027,Software Testing,Software Engineering,Intermediate,20,0.8490884361744098
+INT136,C026,Data Structures and Algorithms,Programming,Intermediate,35,2.4097623855025754
+INT136,C010,Feature Engineering,AI/ML,Advanced,20,1.6104481097981551
+INT136,C008,Supervised Learning,AI/ML,Intermediate,28,1.2567784737496004
+INT136,C029,Communication Skills,Professional Skills,Beginner,8,0.9525022821658947
+INT136,C016,Prompt Engineering,Generative AI,Intermediate,12,0.7174844955175217
+INT137,C028,Agile and Scrum,Professional Skills,Beginner,10,1.1416098087993718
+INT137,C004,Data Analysis with Pandas,Data Science,Intermediate,25,0.8551063945313737
+INT137,C021,FastAPI Development,Web Development,Advanced,22,0.7962222896653217
+INT137,C020,Flask for Beginners,Web Development,Intermediate,20,0.7436959377341748
+INT137,C017,Generative AI Applications,Generative AI,Advanced,24,0.6414053740974575
+INT138,C022,Cloud Computing Basics,Cloud,Beginner,18,2.941860886380271
+INT138,C008,Supervised Learning,AI/ML,Intermediate,28,2.840270572465837
+INT138,C018,Git and GitHub,Software Tools,Beginner,10,2.105177927295127
+INT138,C028,Agile and Scrum,Professional Skills,Beginner,10,1.600968357721899
+INT138,C010,Feature Engineering,AI/ML,Advanced,20,1.0785365485705192
+INT139,C025,MLOps Fundamentals,MLOps,Advanced,30,1.6309453894362242
+INT139,C009,Unsupervised Learning,AI/ML,Advanced,28,1.3667518671303596
+INT139,C028,Agile and Scrum,Professional Skills,Beginner,10,1.3651559683792778
+INT139,C002,Advanced Python,Programming,Intermediate,30,1.3544877101241626
+INT139,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.3113818181583157
+INT140,C015,LLM Fundamentals,Generative AI,Advanced,25,1.181152245016987
+INT140,C001,Python Basics,Programming,Beginner,20,0.9592153806261454
+INT140,C021,FastAPI Development,Web Development,Advanced,22,0.9208026620799581
+INT140,C004,Data Analysis with Pandas,Data Science,Intermediate,25,0.8826539041115483
+INT140,C018,Git and GitHub,Software Tools,Beginner,10,0.6730802833091568
+INT141,C021,FastAPI Development,Web Development,Advanced,22,2.3871367049246044
+INT141,C010,Feature Engineering,AI/ML,Advanced,20,2.0101428561903427
+INT141,C025,MLOps Fundamentals,MLOps,Advanced,30,1.9808430849434828
+INT141,C030,Technical Interview Preparation,Career,Intermediate,15,1.7529214325421907
+INT141,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.309405846499372
+INT142,C026,Data Structures and Algorithms,Programming,Intermediate,35,2.291137461802171
+INT142,C002,Advanced Python,Programming,Intermediate,30,1.5571137030638253
+INT142,C020,Flask for Beginners,Web Development,Intermediate,20,1.5155898299678918
+INT142,C028,Agile and Scrum,Professional Skills,Beginner,10,1.4222435348259124
+INT142,C024,Docker Fundamentals,DevOps,Intermediate,18,1.3272544063729013
+INT143,C025,MLOps Fundamentals,MLOps,Advanced,30,1.632043858330144
+INT143,C019,APIs with Python,Programming,Intermediate,18,1.3334460371092878
+INT143,C030,Technical Interview Preparation,Career,Intermediate,15,1.2554552877677454
+INT143,C029,Communication Skills,Professional Skills,Beginner,8,1.130671975175072
+INT143,C001,Python Basics,Programming,Beginner,20,0.8107956227494416
+INT144,C013,Computer Vision,AI/ML,Advanced,30,1.6560615992701346
+INT144,C017,Generative AI Applications,Generative AI,Advanced,24,1.43643308858596
+INT144,C008,Supervised Learning,AI/ML,Intermediate,28,1.1757903226086266
+INT144,C028,Agile and Scrum,Professional Skills,Beginner,10,1.143691052432751
+INT144,C024,Docker Fundamentals,DevOps,Intermediate,18,0.7336517387735393
+INT145,C005,Statistics for Data Science,Data Science,Intermediate,22,2.484414740736574
+INT145,C027,Software Testing,Software Engineering,Intermediate,20,1.594778111393923
+INT145,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.4515119285577496
+INT145,C018,Git and GitHub,Software Tools,Beginner,10,1.327099890353109
+INT145,C002,Advanced Python,Programming,Intermediate,30,1.3038418597001231
+INT146,C005,Statistics for Data Science,Data Science,Intermediate,22,2.3971366700160037
+INT146,C010,Feature Engineering,AI/ML,Advanced,20,1.7877056627289858
+INT146,C002,Advanced Python,Programming,Intermediate,30,1.4463359980092791
+INT146,C030,Technical Interview Preparation,Career,Intermediate,15,1.3558059435483525
+INT146,C009,Unsupervised Learning,AI/ML,Advanced,28,1.1234248887579155
+INT147,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.9909153461631244
+INT147,C030,Technical Interview Preparation,Career,Intermediate,15,1.5721523203581413
+INT147,C024,Docker Fundamentals,DevOps,Intermediate,18,1.4152635822273107
+INT147,C029,Communication Skills,Professional Skills,Beginner,8,1.2296303332004614
+INT147,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.2288984273074555
+INT148,C021,FastAPI Development,Web Development,Advanced,22,1.8489812770846108
+INT148,C028,Agile and Scrum,Professional Skills,Beginner,10,1.6365016214870547
+INT148,C015,LLM Fundamentals,Generative AI,Advanced,25,1.5013538709104934
+INT148,C025,MLOps Fundamentals,MLOps,Advanced,30,1.2503444454133945
+INT148,C009,Unsupervised Learning,AI/ML,Advanced,28,1.124743461466126
+INT149,C028,Agile and Scrum,Professional Skills,Beginner,10,2.2309317855623334
+INT149,C018,Git and GitHub,Software Tools,Beginner,10,1.0975152962514991
+INT149,C015,LLM Fundamentals,Generative AI,Advanced,25,1.0714829005214548
+INT149,C023,AWS Fundamentals,Cloud,Intermediate,25,0.8523408264026571
+INT149,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,0.6590992658106752
+INT150,C020,Flask for Beginners,Web Development,Intermediate,20,1.5173653187440097
+INT150,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.46010586242498
+INT150,C025,MLOps Fundamentals,MLOps,Advanced,30,1.2520055632218896
+INT150,C006,Data Visualization,Data Science,Beginner,16,1.063469703922142
+INT150,C027,Software Testing,Software Engineering,Intermediate,20,0.9252145390873899
+INT151,C028,Agile and Scrum,Professional Skills,Beginner,10,1.4683407590670645
+INT151,C021,FastAPI Development,Web Development,Advanced,22,1.4079223155166842
+INT151,C005,Statistics for Data Science,Data Science,Intermediate,22,1.3499465855332071
+INT151,C019,APIs with Python,Programming,Intermediate,18,1.2425202972344198
+INT151,C030,Technical Interview Preparation,Career,Intermediate,15,1.034511597625256
+INT152,C003,SQL Fundamentals,Data,Beginner,18,2.63727747277788
+INT152,C020,Flask for Beginners,Web Development,Intermediate,20,2.191578670251221
+INT152,C025,MLOps Fundamentals,MLOps,Advanced,30,1.8851167300568614
+INT152,C028,Agile and Scrum,Professional Skills,Beginner,10,1.4425450152009145
+INT152,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.2526784834008025
+INT153,C014,Natural Language Processing,AI/ML,Advanced,30,2.143589797479587
+INT153,C021,FastAPI Development,Web Development,Advanced,22,1.9586489683347152
+INT153,C005,Statistics for Data Science,Data Science,Intermediate,22,1.7200930456735897
+INT153,C015,LLM Fundamentals,Generative AI,Advanced,25,1.1604486733378196
+INT153,C026,Data Structures and Algorithms,Programming,Intermediate,35,0.8606821489355545
+INT154,C013,Computer Vision,AI/ML,Advanced,30,2.26360434835505
+INT154,C005,Statistics for Data Science,Data Science,Intermediate,22,1.2661849183383806
+INT154,C014,Natural Language Processing,AI/ML,Advanced,30,1.2561925954303863
+INT154,C004,Data Analysis with Pandas,Data Science,Intermediate,25,0.9889598254512657
+INT154,C023,AWS Fundamentals,Cloud,Intermediate,25,0.6182977340349168
+INT155,C006,Data Visualization,Data Science,Beginner,16,2.075737600661483
+INT155,C013,Computer Vision,AI/ML,Advanced,30,1.568497606098255
+INT155,C019,APIs with Python,Programming,Intermediate,18,1.3048354216173597
+INT155,C009,Unsupervised Learning,AI/ML,Advanced,28,1.0217227189199845
+INT155,C021,FastAPI Development,Web Development,Advanced,22,0.982852975205749
+INT156,C021,FastAPI Development,Web Development,Advanced,22,2.4542000835538804
+INT156,C001,Python Basics,Programming,Beginner,20,1.7517820460070566
+INT156,C022,Cloud Computing Basics,Cloud,Beginner,18,1.3217944564185253
+INT156,C005,Statistics for Data Science,Data Science,Intermediate,22,1.26779202848763
+INT156,C015,LLM Fundamentals,Generative AI,Advanced,25,1.2577475368816438
+INT157,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.783265346702778
+INT157,C006,Data Visualization,Data Science,Beginner,16,1.724864578953082
+INT157,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.447091971947496
+INT157,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.0726566999162928
+INT157,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,0.7076934569884664
+INT158,C003,SQL Fundamentals,Data,Beginner,18,2.5698482298334326
+INT158,C023,AWS Fundamentals,Cloud,Intermediate,25,2.3665446294329238
+INT158,C021,FastAPI Development,Web Development,Advanced,22,1.9622558770116212
+INT158,C002,Advanced Python,Programming,Intermediate,30,1.8507949903525833
+INT158,C025,MLOps Fundamentals,MLOps,Advanced,30,1.6549722153895738
+INT159,C014,Natural Language Processing,AI/ML,Advanced,30,3.0622658383371393
+INT159,C020,Flask for Beginners,Web Development,Intermediate,20,2.0024721011204436
+INT159,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.7989078716025513
+INT159,C003,SQL Fundamentals,Data,Beginner,18,1.5175534883670716
+INT159,C030,Technical Interview Preparation,Career,Intermediate,15,1.493066638236765
+INT160,C022,Cloud Computing Basics,Cloud,Beginner,18,1.7222745997605955
+INT160,C002,Advanced Python,Programming,Intermediate,30,1.3757476708550698
+INT160,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.032607159437007
+INT160,C019,APIs with Python,Programming,Intermediate,18,0.8859100338110303
+INT160,C001,Python Basics,Programming,Beginner,20,0.7569632061299887
+INT161,C005,Statistics for Data Science,Data Science,Intermediate,22,2.335045157638957
+INT161,C030,Technical Interview Preparation,Career,Intermediate,15,1.2228777161533806
+INT161,C010,Feature Engineering,AI/ML,Advanced,20,0.8895493486309918
+INT161,C008,Supervised Learning,AI/ML,Intermediate,28,0.8832956029482293
+INT161,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,0.8504876305650768
+INT162,C021,FastAPI Development,Web Development,Advanced,22,2.1707047953972527
+INT162,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.8870338317736377
+INT162,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.481580385601916
+INT162,C022,Cloud Computing Basics,Cloud,Beginner,18,1.3354629608512294
+INT162,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.057264164773574
+INT163,C016,Prompt Engineering,Generative AI,Intermediate,12,1.5280623022445718
+INT163,C021,FastAPI Development,Web Development,Advanced,22,1.4653987713005387
+INT163,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.3543318367581778
+INT163,C025,MLOps Fundamentals,MLOps,Advanced,30,1.0685014542347613
+INT163,C006,Data Visualization,Data Science,Beginner,16,0.999018453695361
+INT164,C027,Software Testing,Software Engineering,Intermediate,20,3.040962294544741
+INT164,C007,Machine Learning Basics,AI/ML,Intermediate,30,2.3739013564419658
+INT164,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.2000537550374961
+INT164,C017,Generative AI Applications,Generative AI,Advanced,24,1.1676696270687892
+INT164,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.101680397915499
+INT165,C017,Generative AI Applications,Generative AI,Advanced,24,2.1341315717052747
+INT165,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.874441854881124
+INT165,C013,Computer Vision,AI/ML,Advanced,30,1.3422454210156711
+INT165,C027,Software Testing,Software Engineering,Intermediate,20,0.8791591265602374
+INT165,C005,Statistics for Data Science,Data Science,Intermediate,22,0.730486331415485
+INT166,C017,Generative AI Applications,Generative AI,Advanced,24,3.0097873316063466
+INT166,C021,FastAPI Development,Web Development,Advanced,22,2.7991535900131694
+INT166,C020,Flask for Beginners,Web Development,Intermediate,20,2.1453129321187654
+INT166,C013,Computer Vision,AI/ML,Advanced,30,1.687427566838819
+INT166,C029,Communication Skills,Professional Skills,Beginner,8,1.4092499146299153
+INT167,C027,Software Testing,Software Engineering,Intermediate,20,2.24636434724377
+INT167,C020,Flask for Beginners,Web Development,Intermediate,20,2.1462957936916625
+INT167,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.1530451257308505
+INT167,C005,Statistics for Data Science,Data Science,Intermediate,22,1.0422099223509715
+INT167,C008,Supervised Learning,AI/ML,Intermediate,28,0.6530576984762666
+INT168,C015,LLM Fundamentals,Generative AI,Advanced,25,3.074682064127629
+INT168,C018,Git and GitHub,Software Tools,Beginner,10,1.558273056444606
+INT168,C029,Communication Skills,Professional Skills,Beginner,8,1.4651359526063001
+INT168,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.2026360257712685
+INT168,C019,APIs with Python,Programming,Intermediate,18,1.2011430889896357
+INT169,C025,MLOps Fundamentals,MLOps,Advanced,30,2.0754381589029607
+INT169,C006,Data Visualization,Data Science,Beginner,16,1.6420954407071586
+INT169,C022,Cloud Computing Basics,Cloud,Beginner,18,1.5352725396339173
+INT169,C001,Python Basics,Programming,Beginner,20,1.4617432366165921
+INT169,C030,Technical Interview Preparation,Career,Intermediate,15,1.4006809576068169
+INT170,C027,Software Testing,Software Engineering,Intermediate,20,1.689605503210347
+INT170,C029,Communication Skills,Professional Skills,Beginner,8,1.5426724694526628
+INT170,C013,Computer Vision,AI/ML,Advanced,30,1.440993245754015
+INT170,C015,LLM Fundamentals,Generative AI,Advanced,25,1.3909128351745905
+INT170,C020,Flask for Beginners,Web Development,Intermediate,20,1.2143230936874227
+INT171,C030,Technical Interview Preparation,Career,Intermediate,15,1.4476014463710114
+INT171,C002,Advanced Python,Programming,Intermediate,30,1.4254770579602893
+INT171,C017,Generative AI Applications,Generative AI,Advanced,24,1.1612939033252008
+INT171,C005,Statistics for Data Science,Data Science,Intermediate,22,1.1319064956753384
+INT171,C016,Prompt Engineering,Generative AI,Intermediate,12,1.0837853342217318
+INT172,C015,LLM Fundamentals,Generative AI,Advanced,25,1.6739001952938117
+INT172,C030,Technical Interview Preparation,Career,Intermediate,15,0.9257593183469577
+INT172,C024,Docker Fundamentals,DevOps,Intermediate,18,0.9240147907485879
+INT172,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,0.8010634351367072
+INT172,C005,Statistics for Data Science,Data Science,Intermediate,22,0.6693420462688373
+INT173,C025,MLOps Fundamentals,MLOps,Advanced,30,2.0459086659951087
+INT173,C015,LLM Fundamentals,Generative AI,Advanced,25,2.0010820845203257
+INT173,C020,Flask for Beginners,Web Development,Intermediate,20,1.3753371540731476
+INT173,C017,Generative AI Applications,Generative AI,Advanced,24,1.2191411687222018
+INT173,C018,Git and GitHub,Software Tools,Beginner,10,1.1649041161222653
+INT174,C028,Agile and Scrum,Professional Skills,Beginner,10,2.1517194330289775
+INT174,C019,APIs with Python,Programming,Intermediate,18,2.129750032264501
+INT174,C009,Unsupervised Learning,AI/ML,Advanced,28,1.8501794497194501
+INT174,C007,Machine Learning Basics,AI/ML,Intermediate,30,1.2366057041900533
+INT174,C017,Generative AI Applications,Generative AI,Advanced,24,1.092989432612117
+INT175,C028,Agile and Scrum,Professional Skills,Beginner,10,1.7496384458118912
+INT175,C024,Docker Fundamentals,DevOps,Intermediate,18,1.3858721614953737
+INT175,C020,Flask for Beginners,Web Development,Intermediate,20,1.2901544301026617
+INT175,C017,Generative AI Applications,Generative AI,Advanced,24,1.269053687922449
+INT175,C029,Communication Skills,Professional Skills,Beginner,8,1.2072292401815434
+INT176,C025,MLOps Fundamentals,MLOps,Advanced,30,2.929886940041206
+INT176,C018,Git and GitHub,Software Tools,Beginner,10,2.7898997337198046
+INT176,C027,Software Testing,Software Engineering,Intermediate,20,1.2245266244869935
+INT176,C009,Unsupervised Learning,AI/ML,Advanced,28,1.0807744432645514
+INT176,C016,Prompt Engineering,Generative AI,Intermediate,12,1.0514928589906318
+INT177,C016,Prompt Engineering,Generative AI,Intermediate,12,1.9987343602840133
+INT177,C029,Communication Skills,Professional Skills,Beginner,8,1.675704059141505
+INT177,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.6385660993741462
+INT177,C013,Computer Vision,AI/ML,Advanced,30,1.50963646332824
+INT177,C021,FastAPI Development,Web Development,Advanced,22,1.2788535018388443
+INT178,C021,FastAPI Development,Web Development,Advanced,22,2.5791911211638947
+INT178,C025,MLOps Fundamentals,MLOps,Advanced,30,2.223847246178437
+INT178,C028,Agile and Scrum,Professional Skills,Beginner,10,1.3257361890095274
+INT178,C016,Prompt Engineering,Generative AI,Intermediate,12,0.950466672434509
+INT178,C020,Flask for Beginners,Web Development,Intermediate,20,0.8902274900440974
+INT179,C009,Unsupervised Learning,AI/ML,Advanced,28,1.6361891089268135
+INT179,C008,Supervised Learning,AI/ML,Intermediate,28,1.3970150338639429
+INT179,C020,Flask for Beginners,Web Development,Intermediate,20,1.2154320022832759
+INT179,C001,Python Basics,Programming,Beginner,20,0.9604819909644113
+INT179,C010,Feature Engineering,AI/ML,Advanced,20,0.6746180352515387
+INT180,C004,Data Analysis with Pandas,Data Science,Intermediate,25,2.909441259582527
+INT180,C023,AWS Fundamentals,Cloud,Intermediate,25,2.1105826562979875
+INT180,C025,MLOps Fundamentals,MLOps,Advanced,30,1.5037655058537736
+INT180,C022,Cloud Computing Basics,Cloud,Beginner,18,1.4668030819041595
+INT180,C014,Natural Language Processing,AI/ML,Advanced,30,1.4498363979334803
+INT181,C008,Supervised Learning,AI/ML,Intermediate,28,2.0143978157620896
+INT181,C025,MLOps Fundamentals,MLOps,Advanced,30,1.8807396284428648
+INT181,C001,Python Basics,Programming,Beginner,20,1.6637568145344606
+INT181,C022,Cloud Computing Basics,Cloud,Beginner,18,1.6043178356718113
+INT181,C024,Docker Fundamentals,DevOps,Intermediate,18,1.5974864341018378
+INT182,C016,Prompt Engineering,Generative AI,Intermediate,12,2.2892552119261445
+INT182,C023,AWS Fundamentals,Cloud,Intermediate,25,2.184971549228169
+INT182,C020,Flask for Beginners,Web Development,Intermediate,20,2.107535227541286
+INT182,C027,Software Testing,Software Engineering,Intermediate,20,1.5477212973098424
+INT182,C015,LLM Fundamentals,Generative AI,Advanced,25,1.5116271242967292
+INT183,C001,Python Basics,Programming,Beginner,20,1.7332644693011199
+INT183,C013,Computer Vision,AI/ML,Advanced,30,1.5077875311604
+INT183,C025,MLOps Fundamentals,MLOps,Advanced,30,0.7490300539924842
+INT183,C016,Prompt Engineering,Generative AI,Intermediate,12,0.56597515117715
+INT183,C005,Statistics for Data Science,Data Science,Intermediate,22,0.5593669842298464
+INT184,C019,APIs with Python,Programming,Intermediate,18,2.0172865852551283
+INT184,C030,Technical Interview Preparation,Career,Intermediate,15,1.981952268853807
+INT184,C029,Communication Skills,Professional Skills,Beginner,8,1.6361047893550589
+INT184,C027,Software Testing,Software Engineering,Intermediate,20,0.9998670120433613
+INT184,C006,Data Visualization,Data Science,Beginner,16,0.6626984590944156
+INT185,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.9472054474745113
+INT185,C010,Feature Engineering,AI/ML,Advanced,20,1.8379277241026735
+INT185,C022,Cloud Computing Basics,Cloud,Beginner,18,1.6427222311208853
+INT185,C030,Technical Interview Preparation,Career,Intermediate,15,1.3448671789793458
+INT185,C027,Software Testing,Software Engineering,Intermediate,20,1.3379441459842072
+INT186,C017,Generative AI Applications,Generative AI,Advanced,24,1.6894955411027426
+INT186,C021,FastAPI Development,Web Development,Advanced,22,1.422158752194178
+INT186,C016,Prompt Engineering,Generative AI,Intermediate,12,1.2075643483512337
+INT186,C030,Technical Interview Preparation,Career,Intermediate,15,0.606865433730513
+INT186,C027,Software Testing,Software Engineering,Intermediate,20,0.4905389092036261
+INT187,C020,Flask for Beginners,Web Development,Intermediate,20,2.054107031610057
+INT187,C018,Git and GitHub,Software Tools,Beginner,10,1.6311301917198815
+INT187,C023,AWS Fundamentals,Cloud,Intermediate,25,1.3486437810605725
+INT187,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,0.9779495883854571
+INT187,C019,APIs with Python,Programming,Intermediate,18,0.9256801675369645
+INT188,C028,Agile and Scrum,Professional Skills,Beginner,10,1.7293383852072897
+INT188,C017,Generative AI Applications,Generative AI,Advanced,24,1.6974118866686994
+INT188,C029,Communication Skills,Professional Skills,Beginner,8,1.654996873343489
+INT188,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.2003826078816093
+INT188,C010,Feature Engineering,AI/ML,Advanced,20,0.9387677088374418
+INT189,C020,Flask for Beginners,Web Development,Intermediate,20,2.0433398600756782
+INT189,C023,AWS Fundamentals,Cloud,Intermediate,25,1.3966773734571263
+INT189,C006,Data Visualization,Data Science,Beginner,16,1.252983583406928
+INT189,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.0640687716703783
+INT189,C030,Technical Interview Preparation,Career,Intermediate,15,1.0568137491450262
+INT190,C014,Natural Language Processing,AI/ML,Advanced,30,2.1152324026666776
+INT190,C015,LLM Fundamentals,Generative AI,Advanced,25,1.97342786979287
+INT190,C025,MLOps Fundamentals,MLOps,Advanced,30,1.5035812949333134
+INT190,C023,AWS Fundamentals,Cloud,Intermediate,25,1.4816371740676286
+INT190,C022,Cloud Computing Basics,Cloud,Beginner,18,1.112428602204511
+INT191,C004,Data Analysis with Pandas,Data Science,Intermediate,25,3.0524905246128125
+INT191,C010,Feature Engineering,AI/ML,Advanced,20,2.4310864398329413
+INT191,C021,FastAPI Development,Web Development,Advanced,22,1.8259920952156434
+INT191,C020,Flask for Beginners,Web Development,Intermediate,20,1.6341011011785112
+INT191,C016,Prompt Engineering,Generative AI,Intermediate,12,1.5195883556607948
+INT192,C009,Unsupervised Learning,AI/ML,Advanced,28,0.970369435822474
+INT192,C029,Communication Skills,Professional Skills,Beginner,8,0.9599361567103585
+INT192,C013,Computer Vision,AI/ML,Advanced,30,0.7036230133390389
+INT192,C025,MLOps Fundamentals,MLOps,Advanced,30,0.5560277954946283
+INT192,C021,FastAPI Development,Web Development,Advanced,22,0.4835198277784967
+INT193,C028,Agile and Scrum,Professional Skills,Beginner,10,1.6125435821325134
+INT193,C010,Feature Engineering,AI/ML,Advanced,20,1.6115852211169435
+INT193,C002,Advanced Python,Programming,Intermediate,30,1.4525017897057597
+INT193,C030,Technical Interview Preparation,Career,Intermediate,15,1.2569396776083086
+INT193,C022,Cloud Computing Basics,Cloud,Beginner,18,0.987261183953633
+INT194,C021,FastAPI Development,Web Development,Advanced,22,1.638599009437956
+INT194,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.5896995713980755
+INT194,C006,Data Visualization,Data Science,Beginner,16,1.5707426400553033
+INT194,C022,Cloud Computing Basics,Cloud,Beginner,18,1.478403274154474
+INT194,C027,Software Testing,Software Engineering,Intermediate,20,1.2882154824845513
+INT195,C019,APIs with Python,Programming,Intermediate,18,1.6381405239808422
+INT195,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.6078982102898811
+INT195,C029,Communication Skills,Professional Skills,Beginner,8,1.3926268276169458
+INT195,C005,Statistics for Data Science,Data Science,Intermediate,22,1.1953514968848595
+INT195,C009,Unsupervised Learning,AI/ML,Advanced,28,1.09291833836745
+INT196,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,3.083906329022823
+INT196,C019,APIs with Python,Programming,Intermediate,18,1.368033446861254
+INT196,C024,Docker Fundamentals,DevOps,Intermediate,18,1.2466791016736851
+INT196,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.200876421149472
+INT196,C005,Statistics for Data Science,Data Science,Intermediate,22,0.8710529979240751
+INT197,C008,Supervised Learning,AI/ML,Intermediate,28,1.9039178036155104
+INT197,C016,Prompt Engineering,Generative AI,Intermediate,12,1.5379589391198325
+INT197,C003,SQL Fundamentals,Data,Beginner,18,1.2938321495256655
+INT197,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.281328373447344
+INT197,C004,Data Analysis with Pandas,Data Science,Intermediate,25,1.0531692656386258
+INT198,C020,Flask for Beginners,Web Development,Intermediate,20,1.906744060830474
+INT198,C003,SQL Fundamentals,Data,Beginner,18,1.4159019880020909
+INT198,C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32,1.3712860979957975
+INT198,C021,FastAPI Development,Web Development,Advanced,22,1.211370211864565
+INT198,C019,APIs with Python,Programming,Intermediate,18,1.047230479692917
+INT199,C029,Communication Skills,Professional Skills,Beginner,8,2.1591271692079426
+INT199,C009,Unsupervised Learning,AI/ML,Advanced,28,1.8813302893706558
+INT199,C008,Supervised Learning,AI/ML,Intermediate,28,1.758644802241973
+INT199,C026,Data Structures and Algorithms,Programming,Intermediate,35,1.6843309329815708
+INT199,C016,Prompt Engineering,Generative AI,Intermediate,12,1.5980020783415907
+INT200,C022,Cloud Computing Basics,Cloud,Beginner,18,2.117651233135565
+INT200,C010,Feature Engineering,AI/ML,Advanced,20,2.0231439702373555
+INT200,C011,Deep Learning Fundamentals,Deep Learning,Advanced,35,1.8385375972121833
+INT200,C018,Git and GitHub,Software Tools,Beginner,10,1.1138343663057806
+INT200,C028,Agile and Scrum,Professional Skills,Beginner,10,0.9383109708957673

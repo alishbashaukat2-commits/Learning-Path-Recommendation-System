@@ -1,0 +1,31 @@
+Course_ID,Course_Name,Category,Difficulty,Duration_Hours
+C001,Python Basics,Programming,Beginner,20
+C002,Advanced Python,Programming,Intermediate,30
+C003,SQL Fundamentals,Data,Beginner,18
+C004,Data Analysis with Pandas,Data Science,Intermediate,25
+C005,Statistics for Data Science,Data Science,Intermediate,22
+C006,Data Visualization,Data Science,Beginner,16
+C007,Machine Learning Basics,AI/ML,Intermediate,30
+C008,Supervised Learning,AI/ML,Intermediate,28
+C009,Unsupervised Learning,AI/ML,Advanced,28
+C010,Feature Engineering,AI/ML,Advanced,20
+C011,Deep Learning Fundamentals,Deep Learning,Advanced,35
+C012,Neural Networks with TensorFlow,Deep Learning,Advanced,32
+C013,Computer Vision,AI/ML,Advanced,30
+C014,Natural Language Processing,AI/ML,Advanced,30
+C015,LLM Fundamentals,Generative AI,Advanced,25
+C016,Prompt Engineering,Generative AI,Intermediate,12
+C017,Generative AI Applications,Generative AI,Advanced,24
+C018,Git and GitHub,Software Tools,Beginner,10
+C019,APIs with Python,Programming,Intermediate,18
+C020,Flask for Beginners,Web Development,Intermediate,20
+C021,FastAPI Development,Web Development,Advanced,22
+C022,Cloud Computing Basics,Cloud,Beginner,18
+C023,AWS Fundamentals,Cloud,Intermediate,25
+C024,Docker Fundamentals,DevOps,Intermediate,18
+C025,MLOps Fundamentals,MLOps,Advanced,30
+C026,Data Structures and Algorithms,Programming,Intermediate,35
+C027,Software Testing,Software Engineering,Intermediate,20
+C028,Agile and Scrum,Professional Skills,Beginner,10
+C029,Communication Skills,Professional Skills,Beginner,8
+C030,Technical Interview Preparation,Career,Intermediate,15
